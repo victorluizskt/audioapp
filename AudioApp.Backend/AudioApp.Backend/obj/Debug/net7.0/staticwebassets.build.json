@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aLVNDHJsB7ab4FMy3TxOl2p3GJOxQwxlzLFq+EXZ8WQ=",
+  "Source": "AudioApp.Backend",
+  "BasePath": "_content/AudioApp.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

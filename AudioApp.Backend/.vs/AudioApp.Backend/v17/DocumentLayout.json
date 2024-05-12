@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|c:\\workspace\\audioapp\\audioapp.backend\\audioapp.backend\\audioapp.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|solutionrelative:audioapp.backend\\audioapp.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|c:\\workspace\\audioapp\\audioapp.backend\\audioapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|solutionrelative:audioapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,19 +31,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
-              "RelativeDocumentMoniker": "AudioApp.Backend\\Program.cs",
-              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
-              "RelativeToolTip": "AudioApp.Backend\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:30:04.597Z",
+              "Title": "AudioApp.Backend.csproj",
+              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\AudioApp.Backend.csproj",
+              "RelativeDocumentMoniker": "AudioApp.Backend\\AudioApp.Backend.csproj",
+              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\AudioApp.Backend.csproj",
+              "RelativeToolTip": "AudioApp.Backend\\AudioApp.Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T22:59:01.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "AudioApp.Backend\\Program.cs",
+              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
+              "RelativeToolTip": "AudioApp.Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:30:04.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:28:12.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T22:28:12.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Dockerfile",
               "RelativeDocumentMoniker": "AudioApp.Backend\\Dockerfile",
@@ -60,8 +75,7 @@
               "RelativeToolTip": "AudioApp.Backend\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-12T22:27:17.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T22:27:17.171Z"
             }
           ]
         }
