@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|c:\\workspace\\audioapp\\audioapp.backend\\audioapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|solutionrelative:audioapp.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|c:\\workspace\\audioapp\\audioapp.backend\\audioapp.backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|solutionrelative:audioapp.backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|c:\\workspace\\audioapp\\audioapp.backend\\audioapp.backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C94EE40-9935-402D-B3DC-09EADF0C0B5D}|AudioApp.Backend\\AudioApp.Backend.csproj|solutionrelative:audioapp.backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "AudioApp.Backend\\Program.cs",
+              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Program.cs",
+              "RelativeToolTip": "AudioApp.Backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:30:04.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AudioApp.Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:28:12.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Dockerfile",
+              "RelativeDocumentMoniker": "AudioApp.Backend\\Dockerfile",
+              "ToolTip": "C:\\Workspace\\AudioApp\\AudioApp.Backend\\AudioApp.Backend\\Dockerfile",
+              "RelativeToolTip": "AudioApp.Backend\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T22:27:17.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
